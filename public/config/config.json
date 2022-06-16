@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8EB6F60076db7F5A0B44A151bbf3eFfe42b541D3",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x8eb6f60076db7f5a0b44a151bbf3effe42b541d3",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "AI Summer Town",
+  "SYMBOL": "AISumTown",
+  "MAX_SUPPLY": 200,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/sacrificetesting1-lds20hciop",
+  "SHOW_BACKGROUND": true
+}
